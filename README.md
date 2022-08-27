@@ -4,3 +4,4 @@ Day1(22/08/26)
 making dummy pdf files. importing libraries pypdf2, glob.
 
 run on notebook.
+Test fin on 13:00.
